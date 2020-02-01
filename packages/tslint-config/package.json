@@ -1,6 +1,6 @@
 {
   "name": "@lsd-aus/tslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lsd-aus's tslint config",
   "repository": {
     "type": "git",
@@ -10,11 +10,10 @@
     "access": "public"
   },
   "keywords": [
-    "@lsd-aus/tslint-config"
-  ],
-  "contributors": [
-    "Jérémy Barbet <jeremgraph@gmail.com>",
-    "Birkir Gudjonsson <birkir.gudjonsson@gmail.com>"
+    "tslint-config",
+    "tslint",
+    "config",
+    "lsd"
   ],
   "author": "Luke Secomb <dev@lukesecomb.digital> (https://lukesecomb.digital)",
   "license": "MIT",

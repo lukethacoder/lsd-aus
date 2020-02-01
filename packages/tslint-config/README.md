@@ -12,7 +12,7 @@ yarn add @lsd-aus/tslint-config
 
 ### TSLint
 
-We have 2 configs to extend to your `tslint.json` file.
+For now there is only one main config.
 
 **For React**
 
@@ -22,17 +22,11 @@ We have 2 configs to extend to your `tslint.json` file.
 }
 ```
 
-**For React Native**
-
-```json
-{
-  "extends": "@lsd-aus/tslint-config/react-native"
-}
-```
+In the future we may add additional tslint configs.
 
 ### TSConfig
 
-We have 2 differents `tsconfig.json` that you can extends to your `tsconfig.json` file.
+For now there is only one main config.
 
 **For React**
 
@@ -45,17 +39,8 @@ We have 2 differents `tsconfig.json` that you can extends to your `tsconfig.json
 }
 ```
 
-**For React Native**
-
-```json
-{
-  "extends": "./node_modules/@lsd-aus/tslint-config/tsconfig-react-native",
-  "compilerOptions": {
-    "baseUrl": "./src"
-  }
-}
-```
+In the future we may add additional tsconfigs.
 
 ## License
 
-MIT &copy; [lsd-aus.](http://lsd-aus.co)
+MIT &copy; [Luke Secomb.](http://lukesecomb.digital)

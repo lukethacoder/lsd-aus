@@ -1,6 +1,6 @@
 {
   "name": "@lsd-aus/stylelint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lsd-aus's stylelint config",
   "main": "index.js",
   "repository": {
@@ -12,12 +12,10 @@
   },
   "keywords": [
     "stylelint",
-    "lsd-aus"
+    "stylelint-config",
+    "lsd"
   ],
   "author": "Luke Secomb <dev@lukesecomb.digital> (https://lukesecomb.digital)",
-  "contributors": [
-    "Jeremy Barbet <jeremy@lsd-aus.co>"
-  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/lukethacoder/lsd-aus/issues"

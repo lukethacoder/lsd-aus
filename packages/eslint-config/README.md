@@ -10,7 +10,7 @@ yarn add @lsd-aus/eslint-config
 
 ## Usage
 
-We have 3 differents configs, reference the one you need in your `.eslintrc`
+We have 2 differents configs, reference the one you need in your `.eslintrc`
 
 **For Vanilla javascript**
 
@@ -28,14 +28,14 @@ We have 3 differents configs, reference the one you need in your `.eslintrc`
 }
 ```
 
-**For React Native**
+**For TypeScript**
 
 ```json
 {
-  "extends": "@lsd-aus/eslint-config/react-native"
+  "extends": "@lsd-aus/eslint-config/typescript"
 }
 ```
 
 ## License
 
-MIT &copy; [lsd-aus.](http://lsd-aus.co)
+MIT &copy; [Luke Secomb.](http://lukesecomb.digital)

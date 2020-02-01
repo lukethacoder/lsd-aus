@@ -1,6 +1,6 @@
 {
   "name": "@lsd-aus/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Luke's personal eslint config",
   "repository": {
     "type": "git",
@@ -10,7 +10,10 @@
     "access": "public"
   },
   "keywords": [
-    "@lsd-aus/eslint-config"
+    "eslint",
+    "eslint-config",
+    "config",
+    "lsd"
   ],
   "author": "Luke Secomb <dev@lukesecomb.digital> (https://lukesecomb.digital)",
   "license": "MIT",

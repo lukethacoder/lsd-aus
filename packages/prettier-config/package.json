@@ -2,6 +2,7 @@
   "name": "@lsd-aus/prettier-config",
   "version": "1.0.0",
   "description": "Luke's personal Prettier config",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lukethacoder/lsd-aus.git"
@@ -9,7 +10,12 @@
   "publishConfig": {
     "access": "public"
   },
-  "main": "index.js",
+  "keywords": [
+    "prettier-config",
+    "prettier",
+    "config",
+    "lsd"
+  ],
   "author": "Luke Secomb <dev@lukesecomb.digital> (https://lukesecomb.digital)",
   "license": "MIT",
   "bugs": {

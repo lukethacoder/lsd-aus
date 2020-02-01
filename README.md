@@ -32,11 +32,11 @@ yarn link "@lsd-aus/tslint-config"
 You can either decide to bump all 4 packages by running:
 
 ```bash
-yarn run publish
+yarn pub
 ```
 
 or if you just want to publish a single package (tslint-config for example):
 
 ```bash
-yarn run publish --scope="@lsd-aus/tslint-config"
+yarn pub --scope="@lsd-aus/tslint-config"
 ```

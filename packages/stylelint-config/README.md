@@ -20,4 +20,4 @@ Reference the config in your `.stylelintrc`:
 
 ## License
 
-MIT &copy; [lsd-aus.](http://lsd-aus.co)
+MIT &copy; [Luke Secomb.](http://lukesecomb.digital)
