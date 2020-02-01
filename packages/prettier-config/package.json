@@ -1,0 +1,16 @@
+{
+  "name": "@lsd/prettier-config",
+  "version": "1.0.0",
+  "description": "Luke's personal Prettier config",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukethacoder/lsd.git"
+  },
+  "main": "index.js",
+  "author": "Luke Secomb <dev@lukesecomb.digital> (https://lukesecomb.digital)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukethacoder/lsd/issues"
+  },
+  "homepage": "https://github.com/lukethacoder/lsd#readme"
+}

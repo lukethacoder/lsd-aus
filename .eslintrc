@@ -1,0 +1,4 @@
+{
+  "extends": "@lsd/eslint-config/vanilla",
+  "rules": { "strict": 0 }
+}

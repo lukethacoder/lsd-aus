@@ -1,0 +1,30 @@
+{
+  "name": "@lsd/eslint-config",
+  "version": "1.0.0",
+  "description": "Luke's personal eslint config",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukethacoder/lsd.git"
+  },
+  "keywords": [
+    "@lsd/eslint-config"
+  ],
+  "author": "Luke Secomb <dev@lukesecomb.digital> (https://lukesecomb.digital)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukethacoder/lsd/issues"
+  },
+  "homepage": "https://github.com/lukethacoder/lsd#readme",
+  "dependencies": {
+    "babel-eslint": "8.0.1",
+    "eslint-config-airbnb": "18.0.1",
+    "eslint-config-airbnb-base": "14.0.0",
+    "eslint-import-resolver-webpack": "0.8.3",
+    "eslint-plugin-import": "2.7.0",
+    "eslint-plugin-jsx-a11y": "6.0.2",
+    "eslint-plugin-react": "7.4.0"
+  },
+  "peerDependencies": {
+    "eslint": "^4.9.0 || ^5.12.0"
+  }
+}

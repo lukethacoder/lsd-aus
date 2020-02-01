@@ -1,0 +1,32 @@
+{
+  "name": "@lsd/tslint-config",
+  "version": "1.0.8",
+  "description": "lsd's tslint config",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukethacoder/lsd.git"
+  },
+  "keywords": [
+    "@lsd/tslint-config"
+  ],
+  "contributors": [
+    "Jérémy Barbet <jeremgraph@gmail.com>",
+    "Birkir Gudjonsson <birkir.gudjonsson@gmail.com>"
+  ],
+  "author": "Luke Secomb <dev@lukesecomb.digital> (https://lukesecomb.digital)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukethacoder/lsd/issues"
+  },
+  "homepage": "https://github.com/lukethacoder/lsd#readme",
+  "dependencies": {
+    "tslint": "^5.12.1",
+    "tslint-config-airbnb": "^5.11.1",
+    "tslint-react": "^3.6.0",
+    "typescript": "^3.2.2"
+  },
+  "peerDependencies": {
+    "tslint": "^5.12.1",
+    "typescript": "^3.2.2"
+  }
+}
