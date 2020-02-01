@@ -12,5 +12,6 @@
   "bugs": {
     "url": "https://github.com/lukethacoder/lsd/issues"
   },
-  "homepage": "https://github.com/lukethacoder/lsd#readme"
+  "homepage": "https://github.com/lukethacoder/lsd#readme",
+  "gitHead": "871d9cf06ef5e6a0f411b8f334b4060438d7ed70"
 }

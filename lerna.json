@@ -2,5 +2,8 @@
   "lerna": "2.0.0",
   "packages": ["packages/*"],
   "npmClient": "yarn",
-  "version": "independent"
+  "version": "independent",
+  "publishConfig": {
+    "access": "public"
+  }
 }
