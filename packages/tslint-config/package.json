@@ -1,6 +1,6 @@
 {
   "name": "@lsd/tslint-config",
-  "version": "1.0.8",
+  "version": "1.0.0",
   "description": "lsd's tslint config",
   "repository": {
     "type": "git",
