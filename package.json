@@ -3,7 +3,7 @@
   "scripts": {
     "bs": "lerna bootstrap",
     "postinstall": "yarn bs",
-    "pub": "lerna publish --no-verify",
+    "pub": "lerna publish from-git",
     "test": "lerna run test",
     "lint": "eslint packages"
   },
