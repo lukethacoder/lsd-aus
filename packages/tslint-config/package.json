@@ -6,6 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/lukethacoder/lsd-aus.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "@lsd-aus/tslint-config"
   ],
@@ -29,5 +32,5 @@
     "tslint": "^5.12.1",
     "typescript": "^3.2.2"
   },
-  "gitHead": "ca964d4245ce9a49fee957e02a4ce468fe7bf83f"
+  "gitHead": "84b7bb82c6335b25e1968e0c88fb448e68228e7d"
 }
