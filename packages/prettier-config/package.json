@@ -1,17 +1,17 @@
 {
-  "name": "@lsd/prettier-config",
+  "name": "@lsd-aus/prettier-config",
   "version": "1.0.0",
   "description": "Luke's personal Prettier config",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lukethacoder/lsd.git"
+    "url": "git+https://github.com/lukethacoder/lsd-aus.git"
   },
   "main": "index.js",
   "author": "Luke Secomb <dev@lukesecomb.digital> (https://lukesecomb.digital)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lukethacoder/lsd/issues"
+    "url": "https://github.com/lukethacoder/lsd-aus/issues"
   },
-  "homepage": "https://github.com/lukethacoder/lsd#readme",
-  "gitHead": "871d9cf06ef5e6a0f411b8f334b4060438d7ed70"
+  "homepage": "https://github.com/lukethacoder/lsd-aus#readme",
+  "gitHead": "ca964d4245ce9a49fee957e02a4ce468fe7bf83f"
 }

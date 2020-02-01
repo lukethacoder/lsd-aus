@@ -1,13 +1,13 @@
 {
-  "name": "@lsd/tslint-config",
+  "name": "@lsd-aus/tslint-config",
   "version": "1.0.0",
-  "description": "lsd's tslint config",
+  "description": "lsd-aus's tslint config",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lukethacoder/lsd.git"
+    "url": "git+https://github.com/lukethacoder/lsd-aus.git"
   },
   "keywords": [
-    "@lsd/tslint-config"
+    "@lsd-aus/tslint-config"
   ],
   "contributors": [
     "Jérémy Barbet <jeremgraph@gmail.com>",
@@ -16,9 +16,9 @@
   "author": "Luke Secomb <dev@lukesecomb.digital> (https://lukesecomb.digital)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lukethacoder/lsd/issues"
+    "url": "https://github.com/lukethacoder/lsd-aus/issues"
   },
-  "homepage": "https://github.com/lukethacoder/lsd#readme",
+  "homepage": "https://github.com/lukethacoder/lsd-aus#readme",
   "dependencies": {
     "tslint": "^5.12.1",
     "tslint-config-airbnb": "^5.11.1",
@@ -29,5 +29,5 @@
     "tslint": "^5.12.1",
     "typescript": "^3.2.2"
   },
-  "gitHead": "871d9cf06ef5e6a0f411b8f334b4060438d7ed70"
+  "gitHead": "ca964d4245ce9a49fee957e02a4ce468fe7bf83f"
 }

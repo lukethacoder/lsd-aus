@@ -784,7 +784,7 @@
     npmlog "^4.1.2"
     write-file-atomic "^2.3.0"
 
-"@lsd/eslint-config@file:packages/eslint-config":
+"@lsd-aus/eslint-config@file:packages/eslint-config":
   version "1.0.0"
   dependencies:
     babel-eslint "8.0.1"
@@ -795,7 +795,7 @@
     eslint-plugin-jsx-a11y "6.0.2"
     eslint-plugin-react "7.4.0"
 
-"@lsd/prettier-config@file:packages/prettier-config":
+"@lsd-aus/prettier-config@file:packages/prettier-config":
   version "1.0.0"
 
 "@mrmlnc/readdir-enhanced@^2.2.1":

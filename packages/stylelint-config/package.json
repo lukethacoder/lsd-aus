@@ -1,25 +1,25 @@
 {
-  "name": "@lsd/stylelint-config",
+  "name": "@lsd-aus/stylelint-config",
   "version": "1.0.0",
-  "description": "lsd's stylelint config",
+  "description": "lsd-aus's stylelint config",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lukethacoder/lsd.git"
+    "url": "git+https://github.com/lukethacoder/lsd-aus.git"
   },
   "keywords": [
     "stylelint",
-    "lsd"
+    "lsd-aus"
   ],
   "author": "Luke Secomb <dev@lukesecomb.digital> (https://lukesecomb.digital)",
   "contributors": [
-    "Jeremy Barbet <jeremy@lsd.co>"
+    "Jeremy Barbet <jeremy@lsd-aus.co>"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lukethacoder/lsd/issues"
+    "url": "https://github.com/lukethacoder/lsd-aus/issues"
   },
-  "homepage": "https://github.com/lukethacoder/lsd#readme",
+  "homepage": "https://github.com/lukethacoder/lsd-aus#readme",
   "dependencies": {
     "stylelint-config-primer": "3.0.1",
     "stylelint-order": "2.0.0"
@@ -27,5 +27,5 @@
   "peerDependencies": {
     "stylelint": "^8.2.0 || ^9.0.0"
   },
-  "gitHead": "871d9cf06ef5e6a0f411b8f334b4060438d7ed70"
+  "gitHead": "ca964d4245ce9a49fee957e02a4ce468fe7bf83f"
 }

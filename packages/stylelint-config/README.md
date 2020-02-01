@@ -1,11 +1,11 @@
-# @lsd/stylelint-config
+# @lsd-aus/stylelint-config
 
-[![npm](https://img.shields.io/npm/v/@lsd/stylelint-config.svg)](https://www.npmjs.com/package/@lsd/stylelint-config)
+[![npm](https://img.shields.io/npm/v/@lsd-aus/stylelint-config.svg)](https://www.npmjs.com/package/@lsd-aus/stylelint-config)
 
 ## Installation
 
 ```bash
-yarn add @lsd/stylelint-config
+yarn add @lsd-aus/stylelint-config
 ```
 
 ## Usage
@@ -14,10 +14,10 @@ Reference the config in your `.stylelintrc`:
 
 ```json
 {
-  "extends": "@lsd/stylelint-config"
+  "extends": "@lsd-aus/stylelint-config"
 }
 ```
 
 ## License
 
-MIT &copy; [lsd.](http://lsd.co)
+MIT &copy; [lsd-aus.](http://lsd-aus.co)

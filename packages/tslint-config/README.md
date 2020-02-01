@@ -1,11 +1,11 @@
-# @lsd/tslint-config
+# @lsd-aus/tslint-config
 
-[![npm](https://img.shields.io/npm/v/@lsd/tslint-config.svg)](https://www.npmjs.com/package/@lsd/tslint-config)
+[![npm](https://img.shields.io/npm/v/@lsd-aus/tslint-config.svg)](https://www.npmjs.com/package/@lsd-aus/tslint-config)
 
 ## Installation
 
 ```bash
-yarn add @lsd/tslint-config
+yarn add @lsd-aus/tslint-config
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ We have 2 configs to extend to your `tslint.json` file.
 
 ```json
 {
-  "extends": "@lsd/tslint-config/react"
+  "extends": "@lsd-aus/tslint-config/react"
 }
 ```
 
@@ -26,7 +26,7 @@ We have 2 configs to extend to your `tslint.json` file.
 
 ```json
 {
-  "extends": "@lsd/tslint-config/react-native"
+  "extends": "@lsd-aus/tslint-config/react-native"
 }
 ```
 
@@ -38,7 +38,7 @@ We have 2 differents `tsconfig.json` that you can extends to your `tsconfig.json
 
 ```json
 {
-  "extends": "./node_modules/@lsd/tslint-config/tsconfig-react",
+  "extends": "./node_modules/@lsd-aus/tslint-config/tsconfig-react",
   "compilerOptions": {
     "baseUrl": "./src"
   }
@@ -49,7 +49,7 @@ We have 2 differents `tsconfig.json` that you can extends to your `tsconfig.json
 
 ```json
 {
-  "extends": "./node_modules/@lsd/tslint-config/tsconfig-react-native",
+  "extends": "./node_modules/@lsd-aus/tslint-config/tsconfig-react-native",
   "compilerOptions": {
     "baseUrl": "./src"
   }
@@ -58,4 +58,4 @@ We have 2 differents `tsconfig.json` that you can extends to your `tsconfig.json
 
 ## License
 
-MIT &copy; [lsd.](http://lsd.co)
+MIT &copy; [lsd-aus.](http://lsd-aus.co)

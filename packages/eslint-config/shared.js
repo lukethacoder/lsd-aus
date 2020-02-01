@@ -1,7 +1,7 @@
 "use strict";
 
 module.exports = {
-  plugins: ["@lsd/internal"],
+  plugins: ["@lsd-aus/internal"],
   rules: {
     // We are not asking to specify a value to the return statement if not necessary
     "consistent-return": 0,
@@ -23,10 +23,10 @@ module.exports = {
     "import/no-named-as-default": 0,
 
     // Force a line break after the decorator statement
-    "@lsd/internal/decorator-line-break": 2,
+    "@lsd-aus/internal/decorator-line-break": 2,
 
     // Force a blank line after the class declaration
-    "@lsd/internal/padded-blocks": ["error", { classes: "top" }],
+    "@lsd-aus/internal/padded-blocks": ["error", { classes: "top" }],
 
     // Ignore linebreak style. The CRLF / LF endings wont matter if a windows user correctly
     // converts CRLF to LF upon commits; otherwise there are errors every line.

@@ -1,20 +1,20 @@
 {
-  "name": "@lsd/eslint-config",
+  "name": "@lsd-aus/eslint-config",
   "version": "1.0.0",
   "description": "Luke's personal eslint config",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lukethacoder/lsd.git"
+    "url": "git+https://github.com/lukethacoder/lsd-aus.git"
   },
   "keywords": [
-    "@lsd/eslint-config"
+    "@lsd-aus/eslint-config"
   ],
   "author": "Luke Secomb <dev@lukesecomb.digital> (https://lukesecomb.digital)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lukethacoder/lsd/issues"
+    "url": "https://github.com/lukethacoder/lsd-aus/issues"
   },
-  "homepage": "https://github.com/lukethacoder/lsd#readme",
+  "homepage": "https://github.com/lukethacoder/lsd-aus#readme",
   "dependencies": {
     "babel-eslint": "8.0.1",
     "eslint-config-airbnb": "18.0.1",
@@ -27,5 +27,5 @@
   "peerDependencies": {
     "eslint": "^4.9.0 || ^5.12.0"
   },
-  "gitHead": "871d9cf06ef5e6a0f411b8f334b4060438d7ed70"
+  "gitHead": "ca964d4245ce9a49fee957e02a4ce468fe7bf83f"
 }

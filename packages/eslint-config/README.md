@@ -1,11 +1,11 @@
-# @lsd/eslint-config
+# @lsd-aus/eslint-config
 
-[![npm](https://img.shields.io/npm/v/@lsd/eslint-config.svg)](https://www.npmjs.com/package/@lsd/eslint-config)
+[![npm](https://img.shields.io/npm/v/@lsd-aus/eslint-config.svg)](https://www.npmjs.com/package/@lsd-aus/eslint-config)
 
 ## Installation
 
 ```bash
-yarn add @lsd/eslint-config
+yarn add @lsd-aus/eslint-config
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ We have 3 differents configs, reference the one you need in your `.eslintrc`
 
 ```json
 {
-  "extends": "@lsd/eslint-config/vanilla"
+  "extends": "@lsd-aus/eslint-config/vanilla"
 }
 ```
 
@@ -24,7 +24,7 @@ We have 3 differents configs, reference the one you need in your `.eslintrc`
 
 ```json
 {
-  "extends": "@lsd/eslint-config/react"
+  "extends": "@lsd-aus/eslint-config/react"
 }
 ```
 
@@ -32,10 +32,10 @@ We have 3 differents configs, reference the one you need in your `.eslintrc`
 
 ```json
 {
-  "extends": "@lsd/eslint-config/react-native"
+  "extends": "@lsd-aus/eslint-config/react-native"
 }
 ```
 
 ## License
 
-MIT &copy; [lsd.](http://lsd.co)
+MIT &copy; [lsd-aus.](http://lsd-aus.co)
