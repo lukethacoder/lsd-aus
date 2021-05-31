@@ -1,6 +1,6 @@
 {
   "name": "@lsd-aus/stylelint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "lsd-aus's stylelint config",
   "main": "index.js",
   "repository": {
