@@ -1,6 +1,6 @@
 {
   "name": "@lsd-aus/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Luke's personal Prettier config",
   "main": "index.js",
   "repository": {
